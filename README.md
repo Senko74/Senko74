@@ -11,16 +11,14 @@ I like to learn a lot of things about programming in general, cybersecurity, new
 - Creating web game
 - Creating web backend
 
-## I’m currently working on my own multiplayer web game using Three.js and WebSockets
-
 ## Technologies
 
-- Three.js
-- Node.js
-- Native WebSockets (client & server)
-- Verse / Uefn
-- JavaScript
-- HTML
-- Python
-- Reverse Engineering (Beginner)
+- 📦 Three.js
+- 🐛 Node.js
+- 🌐 Native WebSockets (client & server)
+- 🕹️ Verse / Uefn
+- 🧠 JavaScript
+- 📝 HTML
+- 🐍 Python
+- 👨‍💻Reverse Engineering (Beginner)
 
