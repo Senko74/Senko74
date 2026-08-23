@@ -1,27 +1,26 @@
 ## Hi there 👋
 
-i'm Naël, a French developer from Annecy.
+I'm Naël, a French developer from Annecy.
 
-I like to learn a lot of things about programming in general, cyber security, new languages, network...
+I like to learn a lot of things about programming in general, cybersecurity, new languages, network...
 
-## What i did/do
+## What I do / What I've done
 
 - Developing mini games in Fortnite using UEFN
-- Reverse Engineering
-- Create exploits for web games
-- Create web game
-- Create web backend*
+- Using exploits i found for web games
+- Creating web game
+- Creating web backend
 
-## I’m currently working on my own multyplayer web game using ThreeJs and the WebSockets
+## I’m currently working on my own multiplayer web game using Three.js and WebSockets
 
 ## Technologies
 
 - Three.js
 - Node.js
-- Native Websockets (client & server)
+- Native WebSockets (client & server)
 - Verse / Uefn
 - JavaScript
 - HTML
 - Python
-- Reverse Engineering (Begginer)
+- Reverse Engineering (Beginner)
 
