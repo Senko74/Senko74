@@ -20,5 +20,4 @@ I like to learn a lot of things about programming in general, cybersecurity, new
 - 🧠 JavaScript
 - 📝 HTML
 - 🐍 Python
-- 👨‍💻Reverse Engineering (Beginner)
 
